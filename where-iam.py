@@ -168,8 +168,8 @@ def inpyt():
     print(yellow+bold+"\tYOUR IP ADDRESS IS",cyan+"<=>====<=>",green,bold,re["query"])
     print(cyan+bold+"*"*60)
     print("\n")
-    os.system("toilet Thank You.")
-    os.system("toilet Follow Me.")
+    os.system("toilet Thank You")
+    os.system("toilet Follow Me")
     os.system("toilet For More")
     os.system("toilet TOOLS")
   elif wv=="3":
