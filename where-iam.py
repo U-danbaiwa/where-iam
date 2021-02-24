@@ -119,6 +119,7 @@ def inpyt():
       print(green+bold+"{ - } Your Time Zone |<====>|",yellow,res["timezone"])
       print("")
       os.system("figlet Thank You.")
+      os.system("figlet Follow Me.")
     except Exception:
       print("Something Wrong")
 inpyt()
