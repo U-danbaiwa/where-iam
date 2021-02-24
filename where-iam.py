@@ -224,7 +224,7 @@ def inpyt():
     print(yellow+bold+"\tYoutube:<=========>",cyan+bold+"Blank")
     os.system("toilet Thank You")
     os.system("toilet Follow Me")
-  elif wv=="4":
+  elif wv=="00":
     os.system("clear")
     os.system("figlet U-danbaiwa")
     print("loading...")
